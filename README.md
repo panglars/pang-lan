@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-![](https://wakatime.com/share/@bef1ebab-11a9-4f28-8d47-2e65903a9a90/1286748c-b456-4d10-92b8-b6fd7fed8ec2.svg)
-
 <!--
 **Fogberry/Fogberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
