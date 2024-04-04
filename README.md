@@ -1,8 +1,9 @@
 ### Hi I'm there 👋
 
+[![wakatime](https://wakatime.com/badge/user/bef1ebab-11a9-4f28-8d47-2e65903a9a90.svg)](https://wakatime.com/@bef1ebab-11a9-4f28-8d47-2e65903a9a90)
+
 ![Metrics](/github-metrics.svg)
 
-![Wakatime](/metrics.plugin.wakatime.svg)
 
 <!--
 **Fogberry/Fogberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
